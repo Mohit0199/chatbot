@@ -1,4 +1,4 @@
-# README.md for Customized Chatbot for Data Science and AI Learning
+# Customized Chatbot for Data Science and AI Learning
 
 ## Overview
 
